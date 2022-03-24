@@ -43,9 +43,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Anjani Documentation',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Anjani Docs',
           src: 'img/logo.svg',
         },
         items: [
@@ -106,7 +106,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with ♥️ from @Userbotindo`,
+        copyright: `Copyright © ${new Date().getFullYear()} ♥️ @Userbotindo, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
