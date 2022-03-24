@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Anjani Documentation Site',
+  title: 'Anjani Docs',
   tagline: 'Anjani free and open source project, with full asynchronous pyrogram library.',
   url: 'https://bionicverse.github.io',
   baseUrl: '/',
@@ -43,9 +43,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Anjani Documentation',
+        title: 'Anjani Docs',
         logo: {
-          alt: 'Anjani Docs',
+          alt: 'Anjani Documentation',
           src: 'img/logo.svg',
         },
         items: [
